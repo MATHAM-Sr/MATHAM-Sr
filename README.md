@@ -1,4 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Maurice! <br/>Cybersecurity Professional</a>, 
+
+<h2>Certifications
+  
+  - [CompTIA CySA+](https://file:///C:/Users/tigee/Downloads/CompTIA%20CySA+.pdf) </h2>
+  
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+- <b>RHCSA Study Practice (REDHAT Linux)</b>
+  - [Praciting RHSCA](https://)
+
+
+<h2>📺YouTube Videos</h2>
+
+- [Title](https://)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[youtube]:Http://
+[linkedin]:http://www.linkedin.com/in/mauricehamiel
+[instagram]:https://www.instagram.com/mauhamielty/
 
 <!--
 **MATHAM-Sr/MATHAM-Sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
