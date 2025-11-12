@@ -1,11 +1,11 @@
 <h1>👋 Hello, I'm Maurice!😁 
-  <br/>👨🏽‍💻Cybersecurity Professional😈</a> 
+  <br/>Cybersecurity Professional</a> 
 
 <h2>Certifications
   
   - [CompTIA CySA+](https://www.credly.com/badges/2512919c-eac3-46b2-98ea-445a5af86452/public_url)</h2>
   
-<h2>👨‍💻Cybersecurity Projects:
+<h2>👨🏽‍💻Cybersecurity Projects:
 
 - <b>RHCSA Study Practice (REDHAT Linux)</b>
   - [Praciting RHSCA](https://) </h2>
