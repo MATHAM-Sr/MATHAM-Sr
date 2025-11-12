@@ -2,7 +2,7 @@
 
 <h2>Certifications
   
-  - [CompTIA CySA+](https://file:///C:/Users/tigee/Downloads/CompTIA%20CySA+.pdf) </h2>
+  - [CompTIA CySA+](file:///C:/Users/tigee/Downloads/CompTIA%20CySA+.pdf) </h2>
   
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
