@@ -1,4 +1,4 @@
-<h1>Hello, I'm Maurice! <br/>Cybersecurity Professional</a>, 
+<h1>Hello👋, my name is Maurice!😁 <br/>I'm a 👨🏽‍💻Cybersecurity Professional😈</a>, 
 
 <h2>Certifications
   
