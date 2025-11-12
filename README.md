@@ -2,19 +2,19 @@
 
 <h2>Certifications
   
-  - [CompTIA CySA+](file:///C:/Users/tigee/Downloads/CompTIA%20CySA+.pdf) </h2>
+  - [CompTIA CySA+](https://www.credly.com/badges/2512919c-eac3-46b2-98ea-445a5af86452/public_url)</h2>
   
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:
 
 - <b>RHCSA Study Practice (REDHAT Linux)</b>
-  - [Praciting RHSCA](https://)
+  - [Praciting RHSCA](https://) </h2>
 
 
-<h2>📺YouTube Videos</h2>
+<h2>📺YouTube Videos
 
-- [Title](https://)
+- [Title](https://)</h2>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,6 +23,7 @@
 [youtube]:Http://
 [linkedin]:http://www.linkedin.com/in/mauricehamiel
 [instagram]:https://www.instagram.com/mauhamielty/
+
 
 <!--
 **MATHAM-Sr/MATHAM-Sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
