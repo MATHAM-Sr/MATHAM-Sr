@@ -7,8 +7,12 @@
   
 <h2>👨🏽‍💻Cybersecurity Projects:
 
-- <b>RHCSA Study Practice (REDHAT Linux)</b>
-  - [Praciting RHSCA](https://) </h2>
+- <b>RHCSA Project (REDHAT Linux)</b>
+  - [Practice Studying for RHSCA](https://)
+  
+- <b>AWS Project (Amazon Web Services)</b>
+  - [Practice Studying for AWS Certified Cloud Practitioner](https://) </h2>
+
 
 
 <h2>📺YouTube Videos
